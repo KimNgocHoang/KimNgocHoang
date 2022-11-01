@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Kim Ngoc, Nice to meet you
+
+I'm using HTML, CSS and JavaScript to make website dance.💃
+
+### About me
+🏫 IT student at Danang University of Science and Technology
 
 <!--
 **KimNgocHoang/KimNgocHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
