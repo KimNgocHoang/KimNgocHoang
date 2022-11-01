@@ -3,7 +3,8 @@
 I'm using HTML, CSS and JavaScript to make website dance.💃
 
 ### About me
-🏫 IT student at Danang University of Science and Technology
+- 🏫 IT student at Danang University of Science and Technology
+- 🌼 Sometimes funny girl, sometimes not
 
 <!--
 **KimNgocHoang/KimNgocHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
